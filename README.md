@@ -13,8 +13,9 @@ To view this program, all of the file into the same directory on your computer. 
 * JavaScript
 * Mapbox
 
-#Future Improvements
-[] Change standard blue marker to custom image
+# Planned Future Improvements
+- [ ] Change standard blue marker to custom image
+- [ ] Add layer with public transportation routes and bus stops to map
 
 # License
 This project is licensed under the MIT License.
